@@ -2,3 +2,19 @@ theme: "hugo-PaperMod"
 baseURL: http://aktancy.netlify.app/
 languageCode: en-us
 title: I know nothing about accountancy
+
+
+params:
+
+    defaultTheme: dark
+    
+    homeInfoParams:
+        Title: Hi there wave
+        Content: I'm a PhD student in accounting. This is my personal blog, where I write down my thoughts on business.
+
+    # socialIcons: # optional
+    #     - name: "<platform>"
+    #         url: "<link>"
+    #     - name: "<platform 2>"
+    #         url: "<link2>"
+
