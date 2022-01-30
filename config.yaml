@@ -1,16 +1,16 @@
 theme: "hugo-PaperMod"
-baseURL: http://aktancy.netlify.app/
+baseURL: http://skillmigrate.com/
 languageCode: en-us
-title: I know nothing about accountancy
+title: Skill Migrate
 
 
 params:
 
-    defaultTheme: dark
+    defaultTheme: auto
     
     homeInfoParams:
-        Title: Hi there wave
-        Content: I'm a PhD student in accounting. This is my personal blog, where I write down my thoughts on business.
+        Title: Mobileholic
+        Content: This is my personal blog covering information about skill based migration.\n sjdfalk
 
     # socialIcons: # optional
     #     - name: "<platform>"
