@@ -1,5 +1,5 @@
 theme: "hugo-PaperMod"
-baseURL: http://skillmigrate.com/
+baseURL: "https://aktancy.netlify.app/"
 languageCode: en-us
 title: Skill Migrate
 
@@ -13,7 +13,7 @@ params:
         Content: >
             This is my personal blog covering skill based migration.
             
-            - Low birth rates and population ageing become severer. Sovereignties compete with each other to attract skilled workers. I believe the merit based immigration system will empower people to move across the border easily.
+            - Low birth rates and population ageing become severer. Sovereignties compete with each other to attract skilled workers. I believe implementing the merit based immigration system will the right to live abroad more accessible.
             
             - This blog focuses on long term settlement in a foreign country, a life style different from [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad). 
 
